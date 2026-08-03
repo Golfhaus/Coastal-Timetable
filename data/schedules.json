@@ -1,7 +1,12 @@
-   [
-     {
-       "id": "schedule_4_v14",
-       "label": "Schedule 4 (Version 14)",
-       "file": "schedule_4_v14.json"
-     }
-   ]
+[
+  {
+    "id": "schedule_4_v14",
+    "label": "Schedule 4 (Version 14)",
+    "file": "schedule_4_v14.json"
+  },
+  {
+    "id": "schedule_4_v14_1",
+    "label": "Schedule 4 (Version 14.1)",
+    "file": "schedule_4_v14_1.json"
+  }
+]
