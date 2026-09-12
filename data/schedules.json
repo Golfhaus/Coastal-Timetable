@@ -1,5 +1,10 @@
 [
-  {
+ {
+    "id": "schedule_6_v2_2_5",
+    "label": "Schedule 6 (Version 2.2.5)",
+    "file": "schedule_6_v2_2_5.json"
+ },
+ {
     "id": "schedule_6_v1_5",
     "label": "Schedule 6 (Version 1.5)",
     "file": "schedule_6_v1_5.json"
